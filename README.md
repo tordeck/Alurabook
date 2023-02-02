@@ -13,7 +13,7 @@ O Alura book é um web site voltado para desenvolvedores de todos os níveis que
 O website consiste em uma biblioteca de e-books para desenvolvedores.
 
 ## Responsividade
-O site atual, pode ser visualizado em mobile,tablet's e PC's. Para a visualização em mobile, o tamanho máximo da pag é de 1023px, em tablet de 1024px a 1727px e PC 1728px +. Faça isso para verificar a experiencia em 3 diferentes equipamentos e nos diga o que achou!
+O site atual, pode ser visualizado em mobile,tablet's e PC's. Para a visualização em mobile, o tamanho máximo da pag é de 1023px, em tablet de 1024px a 1727px e PC 1728px +. Faça isso para verificar a experiencia em 3 diferentes equipamentos e me diga o que achou!
 
 
 ## Tecnologias utilizadas
