@@ -8,7 +8,7 @@
 
 https://tordeck.github.io/Alurabook/
 
-O Alura book é um web site voltado para desenvolvedores de todos os níveis que buscam adquirir ou aperfeiçoar seus conhecimentos. Projeto desenvolvido para conclusão do curso de HTML e CSS da <a href="www.alura.com.br/">Alura</a> ministrado por Monica Hillman.
+O Alura book é um web site voltado para desenvolvedores de todos os níveis que buscam adquirir ou aperfeiçoar seus conhecimentos. Projeto desenvolvido para conclusão do curso de HTML e CSS da Alura ministrado por <a href="https://www.linkedin.com/in/monicamhillman/">Monica Hillman</a>.
 
 O website consiste em uma biblioteca de e-books para desenvolvedores.
 
