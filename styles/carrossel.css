@@ -82,12 +82,14 @@
         display: none;
         top: 60%;
     }
+    
     .card {               
         width: 40%;
         margin: 2em auto;       
     }
     .botões__ancora:active {
         background-color: var(--azul);
+        
         }
 }
 
