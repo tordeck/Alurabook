@@ -79,7 +79,7 @@
 
     .swiper-button-prev,
     .swiper-button-next {
-        display: block;
+        display: none;
         top: 60%;
     }
     .card {               
