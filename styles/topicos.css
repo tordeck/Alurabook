@@ -13,8 +13,7 @@
 .tópicos__lista {
     display: flex;
     justify-content: center;        
-    flex-wrap: wrap;
- 
+    flex-wrap: wrap; 
 }
 .tópicos__item{   
     display: flex;
@@ -32,8 +31,7 @@
     text-decoration: none;   
     color: var(--branco);
     padding: 0.5em; 
-    text-align: center;
-   
+    text-align: center;   
 }
 
 @media screen and (min-width: 1024px) {
@@ -49,7 +47,6 @@
         width: 100%;
         text-align: center;        
         }
-
 }
 @media screen and (min-width: 1728px){
     .tópicos {
